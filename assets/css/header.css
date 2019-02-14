@@ -2,11 +2,12 @@
 	background-color:#4267b2;
 	position:sticky;
 	top:0;
-	
+
 }
 
 .header__width{
 	display:flex;
+	flex-wrap:wrap;
 	justify-content:space-between;
 	max-width:1200px;
 	width:90%;
