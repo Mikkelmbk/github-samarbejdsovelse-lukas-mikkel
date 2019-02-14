@@ -1,0 +1,31 @@
+
+
+
+.footer {
+    background-color: #e9ebee;
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+}
+
+
+.footer__tags {
+    text-decoration: none;
+}
+
+
+.footer__form{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.footer__input{
+    margin-bottom: 1em;
+    border: 1px solid black;
+}
