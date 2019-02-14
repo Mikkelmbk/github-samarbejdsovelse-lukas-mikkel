@@ -1,0 +1,14 @@
+.header{
+	background-color:#4267b2;
+	position:sticky;
+	top:0;
+}
+
+.header__width{
+	display:flex;
+	justify-content:space-between;
+	max-width:1200px;
+	width:90%;
+	margin: 0 auto;
+}
+
